@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>ECOMMERCE DJ APP</p>
+        <p>DJ APP</p>
         <a className="App-link" href="https://djcarloshermida.com.uy" target="_blank" rel="noopener noreferrer">
           djcarloshermida
         </a>

@@ -1,3 +1,3 @@
-APP ECOMMERCE DJ with react js
+APP ECOMMERCE DJ with ReactJS 
 
 https://djcarloshermida.com.uy
